@@ -1,8 +1,10 @@
 # Base4Tone-iterm2
 
-Colorthemes for iTerm2
+Collection of dark colorthemes for iTerm2
 
-Find the colorschemes in the ColorPresets folder.
+Find the themes in the ColorPresets folder.
+
+The [live demo of Base4Tone for Prism](https://atelierbram.github.io/Base4Tone-prism/b4t_classic-a/dark/) give a good impression of what these themes look like.
 
 ### License
 Copyright (c) 2016 [Bram de Haan](https://atelierbramdehaan.nl/)
