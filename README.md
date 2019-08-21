@@ -1,6 +1,6 @@
 # Base4Tone-iterm2
 
-Collection of dark colorthemes for iTerm2
+Collection of colorthemes for iTerm2 in dark and light versions.
 
 Find the themes in the ColorPresets folder.
 
